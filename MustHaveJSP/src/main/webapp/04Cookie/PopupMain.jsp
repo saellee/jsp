@@ -66,7 +66,7 @@ $(function() {
             하루 동안 열지 않음
             <input type="button" value="닫기" id="closeBtn" />
         </form></div>
-    </div>
+    </div>console.log('test22');
 <%
     }
 %>
