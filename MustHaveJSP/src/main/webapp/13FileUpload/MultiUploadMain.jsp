@@ -30,6 +30,6 @@
         <input type="submit" value="전송하기" />
     </form>
     console.log('test11');
-    console.log('test2');
+    console.log('test22');
 </body> 
 </html>
