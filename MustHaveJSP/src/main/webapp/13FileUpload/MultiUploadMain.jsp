@@ -13,6 +13,7 @@
             alert("첨부파일은 필수 입력입니다.");
             return false;
         }
+        console.log('1');
     }
 </script>
 <body>
