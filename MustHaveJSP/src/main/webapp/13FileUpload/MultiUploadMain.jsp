@@ -29,9 +29,5 @@
         첨부파일 : <input type="file" name="ofile" multiple /> <br />
         <input type="submit" value="전송하기" />
     </form>
-    console.log('test11');
-    console.log('test22');
-    console.log('test33');
-    console.log('test44');console.log('test55');
 </body> 
 </html>
